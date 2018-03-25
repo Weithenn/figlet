@@ -1,0 +1,2 @@
+# figlet
+OpenFaaS test function
